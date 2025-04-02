@@ -34,5 +34,5 @@ A Python-based AI assistant that can perform various tasks like web searching, p
 
 1. Clone this repository:
    ```bash
-   (https://github.com/harshwardanrajpurohit/AI-Assistant)
+   https://github.com/harshwardanrajpurohit/AI-Assistant
 
